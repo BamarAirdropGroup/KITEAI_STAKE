@@ -1,0 +1,38 @@
+{
+  "name": "kiteai-faucet-stake-bot",
+  "version": "1.0.0",
+  "description": "Automated bot for interacting with KiteAI testnet, performing daily tasks, and maximizing rewards",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Myatt777/Kiteai-Faucet-Stake.git"
+  },
+  "keywords": [
+    "kiteai",
+    "bot",
+    "automation",
+    "blockchain",
+    "ai",
+    "crypto"
+  ],
+  "author": "kmno",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.10.0",
+    "https-proxy-agent": "^7.0.6",
+    "user-agents": "^1.0.559"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Myatt777/Kiteai-Faucet-Stake.git/issues"
+  },
+  "homepage": "https://github.com/Myatt777/Kiteai-Faucet-Stake.git#readme"
+}
