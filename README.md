@@ -12,14 +12,22 @@ Kite ai stake and faucet claim
 
 #Clone the repo
 
+git clone https://github.com/BamarAirdropGroup/KITEAI_STAKE.git && cd KITEAI_STAKE && npm install
+
 
 # add private key in .env
  nano .env
+
+  PRIVATE_KEY_1/2/3.... စသည် ဖြင့် ထည့်ပါ ။
+
+#Daily faucet run ချင်ပါက capmonster api key ထည့် ရန်( Faucet မrun ပါ က ချန် ထားနိုင် ပါတယ် )
+
+nano key.txt 
 
 #Running
 npm start 
 
 
 
- PRIVATE_KEY_1/2/3.... စသည် ဖြင့် ထည့်ပါ ။
+
   
