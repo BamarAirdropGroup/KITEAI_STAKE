@@ -119,10 +119,10 @@ const baseHeaders = {
 };
 
 const SUBNETS = {
-  1: '0xc368ae279275f80125284d16d292b650ecbbff8d',
-  2: '0xca312b44a57cc9fd60f37e6c9a343a1ad92a3b6c',
-  3: '0xb132001567650917d6bd695d1fab55db7986e9a5',
-  4: '0x56f0505a1d84357164f4a8e11df55be4a25b30e6'
+  1: '0xda925c81137dd6e44891cdbd5e84bda3b4f81671',
+  2: '0xb20f6f7d85f657c8cb66a7ee80799cf40f1d3533',
+  3: '0x233b43fbe16b3c29df03914bac6a4b5e1616c3f3',
+  4: '0x72ce733c9974b180bed20343bd1024a3f855ec0c'
 };
 
 const getWallet = (privateKey) => {
